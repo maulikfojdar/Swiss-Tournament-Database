@@ -1,5 +1,4 @@
-# udacity-tournament-results
-
+# Swiss Tournament Pairings 
 Make pairings of players for Swiss-style game tournament using Python and a PostgreSQL database.
 
 ## Initialization
